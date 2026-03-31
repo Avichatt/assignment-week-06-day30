@@ -1,4 +1,4 @@
-# Part C — Interview Ready
+Part C 
 
 Q1.
 
